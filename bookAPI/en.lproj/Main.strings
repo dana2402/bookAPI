@@ -1,0 +1,12 @@
+
+/* Class = "UIBarButtonItem"; title = "Menu"; ObjectID = "QYz-Bj-qF4"; */
+"QYz-Bj-qF4.title" = "Menu";
+
+/* Class = "UILabel"; text = "author"; ObjectID = "Sd4-Gj-RCh"; */
+"Sd4-Gj-RCh.text" = "author";
+
+/* Class = "UILabel"; text = "title"; ObjectID = "XVz-SY-NkS"; */
+"XVz-SY-NkS.text" = "title";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "gJT-3I-OuD"; */
+"gJT-3I-OuD.normalTitle" = "Back";
